@@ -2,8 +2,6 @@
 Repository of all my python projects.
 
 
-Here in readme file, link to the .ipnb with your projects, as a table of contents.
-
-# Table of Contents:
-
-1. Bitcoin and Retail Investor Attention
+Table of Contents
+|---|
+|[Bitcoin and Retail Investor Attention](https://github.com/MB987/Python-Portfolio/tree/master/Bitcoin%20and%20Retail%20Investor%20Attention)&nbsp; &nbsp;<br>*Relationship of the Bitcoin Price and Google Search Volume / Wikipedia Page Views .*|
