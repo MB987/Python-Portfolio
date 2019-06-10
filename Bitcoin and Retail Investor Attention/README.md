@@ -7,7 +7,7 @@ Firstly, a descriptive representation of the data and the contemporaneous relati
 The exploration of the relationship between attention and the Bitcoin market is of particular interest since the internet currency has no intrinsic value. Buying and selling decisions can therefore not be based on fundamental indicators which determine a fair value. Hence, public attention could be a decisive factor impacting the Bitcoin market.
 
 Methodology employed: 
-* Calculate the Pearson correlation coefficients and inspect for a cointegration between the time series of all associated variable pairs. 
+* I calculate the Pearson correlation coefficients and inspect for a cointegration between the time series of all associated variable pairs. 
 * I estimate vector autoregressive (VAR) models of the variable pairs and derive the impulse response functions from them. The VAR models allow to determine (Granger-) causality between retail investor attention and the Bitcoin price or trading volume, while the impulse response functions permit to observe the magnitude and manifestation of these causal connections.
 
 
