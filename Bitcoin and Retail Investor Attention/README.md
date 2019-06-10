@@ -1,6 +1,6 @@
 # READ ME
 
-**FOR THOSE ONLY INTERESTED IN THE RESULTS AND THEIR DISCUSSION AND NOT THE CODE, SIMPLY READ THE SCIENTIFIC PAPER: **
+**FOR THOSE ONLY INTERESTED IN THE RESULTS AND THEIR DISCUSSION AND NOT THE CODE, SIMPLY READ THE SCIENTIFIC PAPER: Paper_Bitcoin_and_Retail_Investor_Attention.pdf**
 
 The research of this work examines the relationship between retail investor attention based on Google searches and Wikipedia pageviews and the price and trading volume of Bitcoin. 
 Firstly, a descriptive representation of the data and the contemporaneous relationships of the investigated variables are exhibited. Furthermore, existing dynamic relationships are uncovered.
