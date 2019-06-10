@@ -1,5 +1,6 @@
 # READ ME
 
+**FOR THOSE ONLY INTERESTED IN THE RESULTS AND THEIR DISCUSSION AND NOT THE CODE, SIMPLY READ THE SCIENTIFIC PAPER: **
 
 The research of this work examines the relationship between retail investor attention based on Google searches and Wikipedia pageviews and the price and trading volume of Bitcoin. 
 Firstly, a descriptive representation of the data and the contemporaneous relationships of the investigated variables are exhibited. Furthermore, existing dynamic relationships are uncovered.
@@ -13,3 +14,4 @@ Methodology employed:
 The folder **'Data Preparation'** includes the inital data in .CSV files, as well as the Jupyter Notebooks (.ipynb), which clean and prepare the data for the analysis.
 
 The folder **'Data Analysis'** contains the prepared data in .CSV files and the Jupyter Notebooks (.ipynb), with the data visualisations and statistical methods (Correlation Coefficients, Granger Causality, Vector-Autoregressive Models, Impulse-Response Functions)
+
