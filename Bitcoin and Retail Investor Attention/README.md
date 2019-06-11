@@ -13,5 +13,5 @@ Methodology employed:
 
 The folder **'Data Preparation'** includes the inital data in .CSV files, as well as the Jupyter Notebooks (.ipynb), which clean and prepare the data for the analysis.
 
-The folder **'Data Analysis'** contains the prepared data in .CSV files and the Jupyter Notebooks (.ipynb), with the data visualisations and statistical methods (Correlation Coefficients, Granger Causality, Vector-Autoregressive Models, Impulse-Response Functions)
+The folder **'Data Analysis'** contains the prepared data in .CSV files and the Jupyter Notebooks (.ipynb), with the data visualisations and statistical methods (Correlation Coefficients, Granger Causality, Vector-Autoregressive Models, Impulse-Response Functions) and their results.
 
