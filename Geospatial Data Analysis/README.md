@@ -22,7 +22,7 @@ Following this tutorial will require recent installations of:
 
 The creators of the notebooks were the following instructors:
 
-- [Levi John Wolf] - [University of Bristol](http://www.bristol.ac.uk/geography/levi-j-wolf/overview.html)
+- Levi John Wolf - [University of Bristol](http://www.bristol.ac.uk/geography/levi-j-wolf/overview.html)
 - Sergio Rey - [Center for Geospatial Sciences, University of California, Riverside](http://spatial.ucr.edu/peopleRey.html)
 - [Dani Arribas-Bel](http://darribas.org/) -  University of Liverpool
 - [Joris Van den Bossche](https://jorisvandenbossche.github.io/) - Université Paris-Saclay Center for Data Science 
