@@ -1,5 +1,5 @@
 # Python Portfolio
-Repository of all my python projects.
+This repository contains an excerpt of my python projects.
 
 
 
