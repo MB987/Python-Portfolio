@@ -9,3 +9,5 @@ The folder **'Data Input'** includes the inital weather data, as well as the geo
 
 The folder **'Data Visualization'** contains the Jupyter Notebook (.ipynb), with the code to manipulate the data and create the visualization: Bamberg (Germany) Temperatures 2005-2014 and 2015.png
 
+Inspect the jupyter notebook on nbviewer: [Link](https://nbviewer.jupyter.org/github/MB987/Python-Portfolio/blob/master/Data%20Visualization%3A%20Plotting%20Weather%20Data/Data%20Visualization/Data_Visualization_Temperature_Development_Germany.ipynb)
+
