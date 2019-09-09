@@ -2,6 +2,8 @@
 
 **FOR THOSE ONLY INTERESTED IN THE METHODOLOGY, THE RESULTS AND THEIR DISCUSSION AND NOT THE CODE, SIMPLY READ THE SCIENTIFIC PAPER: Paper_Real_Option_Valuation_using_the_Datar_Mathews_Method.pdf**
 
+View the notebook on nbveiwer: [Link](https://nbviewer.jupyter.org/github/MB987/Python-Portfolio/blob/master/Real%20Option%20Valuation%20%28Datar-Mathews%20method%5CMonte%20Carlo%20simulation%29/Data%20Analysis/Notebook_Real_Option_Valuation_%28Datar-Mathews_Method%3AMonte_Carlo_Simulation%29.ipynb)
+
 The research goal of this project is to understand the practical use and application of Monte-Carlo simulations in the context of real investments. Real investments are used as the object of this research since they entail commonly and naturally the characteristics of an option. This makes the application of a Monte-Carlo simulation, such as in the process of applying the Datar-Mathews method for option valuation, a suitable approach.
 
 The project makes use of a hypothetical case study, which is a gold mine investment:
