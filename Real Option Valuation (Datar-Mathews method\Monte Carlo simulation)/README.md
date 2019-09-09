@@ -12,5 +12,5 @@ For more information on the case study and the methodology, read the research pa
 
 The folder **'Data Input'** includes the inital gold price data in a .CSV file, which is used in the data analysis.
 
-The folder **'Data Analysis'** contains the Jupyter Notebook (.ipynb), with the data visualisations and methodology (Monte Carlo simulation) and their result. 
+The folder **'Data Analysis'** contains the Jupyter Notebook (.ipynb), with the data visualisations and methodology (Monte Carlo simulation) and their result. Inspect the jupyter notebook on nbviewer: [Link](https://nbviewer.jupyter.org/github/MB987/Python-Portfolio/blob/master/Real%20Option%20Valuation%20%28Datar-Mathews%20method%5CMonte%20Carlo%20simulation%29/Data%20Analysis/Notebook_Real_Option_Valuation_%28Datar-Mathews_Method%3AMonte_Carlo_Simulation%29.ipynb)
 
